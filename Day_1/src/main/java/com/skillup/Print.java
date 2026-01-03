@@ -1,8 +1,7 @@
 package com.skillup;
 
-public class Main {
+public class Print {
     public static void main(String[] args) {
-        Print.main(args);
-        Intro.main(args);
+        System.out.println("Hello World");
     }
 }
